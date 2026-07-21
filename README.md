@@ -7,7 +7,6 @@ Mohammad Taiyab Khan | MSc Data Science & Analytics | Royal Holloway, University
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-preprint-red)](https://arxiv.org/abs/XXXX.XXXXX)
 
 ---
 
