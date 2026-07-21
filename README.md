@@ -205,12 +205,9 @@ If you use this code or dataset, please cite:
              Lexicon-Based, and LLM Approaches for Football Sentiment Analysis},
   author  = {Khan, Mohammad Taiyab},
   year    = {2025},
-  journal = {arXiv preprint},
-  note    = {arXiv:XXXX.XXXXX}
+  journal = {preprint}
 }
 ```
-
-Update the arXiv ID once uploaded.
 
 ---
 
